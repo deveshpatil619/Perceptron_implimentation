@@ -19,7 +19,11 @@ conda create --prefix ./env python=3.7 -y
 conda activate ./env
 ```
 
-## make directory commnand in git bash - 
+## make directory/folder command in git bash - 
 ```
 mkdir Research_env
 ```
+
+## To start a jupyter notebook in web-browser
+
+jupyter-notebook
